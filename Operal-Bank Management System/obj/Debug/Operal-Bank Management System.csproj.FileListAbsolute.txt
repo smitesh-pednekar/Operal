@@ -1,0 +1,56 @@
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\bin\Debug\Operal-Bank Management System.exe.config
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\bin\Debug\Operal-Bank Management System.exe
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\bin\Debug\Operal-Bank Management System.pdb
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.Properties.Resources.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.csproj.GenerateResource.cache
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.csproj.CoreCompileInputs.cache
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.exe
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.pdb
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.LoginForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.ProfileForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.SplashScreen.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.MainForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.AdminRForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.ForgotPassForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.BankInfoForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.csproj.AssemblyReference.cache
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.AccountCForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.CustomerForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.AboutUsForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.AccountTForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.TransactionForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.TransferForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.UpdateCForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.DepositeForm.resources
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.csproj.Fody.CopyLocal.cache
+D:\sanket\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.DeleteForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.csproj.AssemblyReference.cache
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.AboutUsForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.AccountTForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.AccountCForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.CustomerForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.DeleteForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.DepositeForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.TransactionForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.AdminRForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.ForgotPassForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.BankInfoForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.SplashScreen.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.LoginForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.MainForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.ProfileForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.Properties.Resources.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.TransferForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.UpdateCForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.csproj.GenerateResource.cache
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.csproj.CoreCompileInputs.cache
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.exe
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.pdb
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\bin\Debug\Operal-Bank Management System.exe.config
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\bin\Debug\Operal-Bank Management System.exe
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\bin\Debug\Operal-Bank Management System.pdb
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal-Bank Management System.csproj.Fody.CopyLocal.cache
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.BalanceF.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.LoanBorrowF.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Operal_Bank_Management_System.LoanForm.resources
+D:\operal-Sanket and Smitesh\Operal-Bank Management System\Operal-Bank Management System\obj\Debug\Digital_Clock.Form1.resources

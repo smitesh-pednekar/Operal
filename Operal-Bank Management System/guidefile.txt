@@ -1,0 +1,7 @@
+﻿INCEAMENT FUNCTION CALL DYNAMICALY
+
+string tbname = "adminTb";
+double id=myClass.IncrementF(tbname);
+
+HERE adminTb is name of tbl find the maximum value
+
